@@ -11,7 +11,7 @@ class MyTestCase(unittest.TestCase):
 
         #self.assertEqual(True, False)  # add assertion here
 
-        filePath = "C:\\Users\\Ashi Sharma\\PycharmProjects\SeleniumProject1\\Drivers\\chromedriver.exe"
+        filePath = "chromedriver.exe"
 
         url = "https://www.google.com/"
 
